@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindowMenu</class>
+ <widget class="QMainWindow" name="MainWindowMenu">
+  <property name="enabled">
+   <bool>true</bool>
+  </property>
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Frog Lab - Menu</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QPushButton" name="pushButtonConclusion">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>553</y>
+      <width>179</width>
+      <height>26</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>11</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string>CONCLUSIONS</string>
+    </property>
+    <property name="default">
+     <bool>false</bool>
+    </property>
+    <property name="flat">
+     <bool>false</bool>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButtonExperiment3Menu">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>399</y>
+      <width>179</width>
+      <height>26</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>11</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string>EXPERIMENT 3</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButtonAboutMenu">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>585</y>
+      <width>179</width>
+      <height>26</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>11</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string>ABOUT</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="labelLabSections">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>295</y>
+      <width>179</width>
+      <height>23</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>14</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string>   LABORATORY SECTIONS</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButtonExperiment4Menu">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>431</y>
+      <width>179</width>
+      <height>26</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>11</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string>EXPERIMENT 4</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="labelTheorySections">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>183</y>
+      <width>179</width>
+      <height>23</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>14</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string>         THEORY &amp; SET-UP</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButtonExperiment2Menu">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>367</y>
+      <width>179</width>
+      <height>26</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>11</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string>EXPERIMENT 2</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButtonExperiment1Menu">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>335</y>
+      <width>179</width>
+      <height>26</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>11</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string>EXPERIMENT 1</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButtonTheoryMenu">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>220</y>
+      <width>179</width>
+      <height>26</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>11</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string>EXPERIMENTAL SET-UP</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>240</x>
+      <y>190</y>
+      <width>851</width>
+      <height>481</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>../img/menu.png</pixmap>
+    </property>
+    <property name="scaledContents">
+     <bool>true</bool>
+    </property>
+   </widget>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
