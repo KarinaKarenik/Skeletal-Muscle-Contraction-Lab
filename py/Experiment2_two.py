@@ -18,7 +18,7 @@ class Experiment2_two(QtWidgets.QMainWindow):
         
     def answerQuestionOne(self):
         x = float(self.lineEditQuestion1.text())
-        if (x >= 114 and x <= 116):
+        if (x >= 114 and x <= 118):
             QtWidgets.QMessageBox.about(self, "Correct!", "Correct!")
         else:
             QtWidgets.QMessageBox.about(self, "Incorrect!", "Incorrect! The time is measured between the start of the contraction and the return to the baseline.")

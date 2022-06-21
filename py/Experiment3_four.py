@@ -17,7 +17,7 @@ class Experiment3_four(QtWidgets.QMainWindow):
     
     def question4(self):
         inp = int(self.lineEditQuestion4.text())
-        if (inp==308):
+        if (inp >= 280 and inp <= 300):
             QtWidgets.QMessageBox.about(self, "Correct!", "Correct! Well done!")
         else:
             QtWidgets.QMessageBox.about(self, "Incorrect!", "No! Go back and stimulate with higher frequency.")
