@@ -21,8 +21,8 @@
     <property name="geometry">
      <rect>
       <x>20</x>
-      <y>370</y>
-      <width>251</width>
+      <y>380</y>
+      <width>271</width>
       <height>321</height>
      </rect>
     </property>
@@ -102,10 +102,10 @@ color: rgb(255, 255, 255);</string>
    <widget class="QGroupBox" name="groupBox_2">
     <property name="geometry">
      <rect>
-      <x>280</x>
-      <y>330</y>
-      <width>391</width>
-      <height>361</height>
+      <x>330</x>
+      <y>350</y>
+      <width>371</width>
+      <height>351</height>
      </rect>
     </property>
     <property name="title">
@@ -114,9 +114,9 @@ color: rgb(255, 255, 255);</string>
     <widget class="QTableWidget" name="tableWidget">
      <property name="geometry">
       <rect>
-       <x>30</x>
+       <x>10</x>
        <y>30</y>
-       <width>331</width>
+       <width>351</width>
        <height>311</height>
       </rect>
      </property>
@@ -319,7 +319,7 @@ color: rgb(255, 255, 255);</string>
       <x>10</x>
       <y>80</y>
       <width>691</width>
-      <height>241</height>
+      <height>261</height>
      </rect>
     </property>
     <property name="font">
@@ -336,7 +336,7 @@ color: rgb(255, 255, 255);</string>
        <x>10</x>
        <y>30</y>
        <width>671</width>
-       <height>201</height>
+       <height>221</height>
       </rect>
      </property>
      <property name="font">
@@ -350,9 +350,7 @@ color: rgb(255, 255, 255);</string>
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'.AppleSystemUIFont'; font-size:21pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p align=&quot;justify&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;a name=&quot;docs-internal-guid-e93a8562-7fff-014e-29a3-aafb6dbbd424&quot;&gt;&lt;/a&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:18pt; color:#ffffff; background-color:transparent;&quot;&gt;Y&lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:18pt; color:#ffffff; background-color:transparent;&quot;&gt;ou can set the muscle length to any value between set limits. Explore the effect of changing the length on the resting tension and the tetanic tension. &lt;/span&gt;&lt;/p&gt;
-&lt;p align=&quot;justify&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:120%;&quot;&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:18pt; color:#ffffff; background-color:transparent;&quot;&gt;Set the muscle length by moving the arrow around the dial (the current length is also displayed in the “Muscle length” box).&lt;/span&gt;&lt;/p&gt;
-&lt;p align=&quot;justify&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:120%;&quot;&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:18pt; color:#ffffff; background-color:transparent;&quot;&gt;Clicking the &lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:18pt; color:#ff6400; background-color:transparent;&quot;&gt;“STIMULATE”&lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:18pt; color:#ffffff; background-color:transparent;&quot;&gt; button will then tetanically stimulate the nerve.&lt;/span&gt;&lt;/p&gt;
-&lt;p align=&quot;justify&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:120%;&quot;&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:18pt; color:#ffffff; background-color:transparent;&quot;&gt;The resulting resting tension and tetanic tension are displayed in the appropriate boxes.&lt;/span&gt;&lt;/p&gt;
+&lt;p align=&quot;justify&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:120%;&quot;&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:18pt; color:#ffffff; background-color:transparent;&quot;&gt;Set the muscle length by moving the arrow around the dial (the current length is also displayed in the “Muscle length” box). Clicking the &lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:18pt; color:#ff6400; background-color:transparent;&quot;&gt;“STIMULATE”&lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:18pt; color:#ffffff; background-color:transparent;&quot;&gt; button will then tetanically stimulate the nerve. The resulting resting tension and tetanic tension are displayed in the appropriate boxes.&lt;/span&gt;&lt;/p&gt;
 &lt;p align=&quot;justify&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:120%;&quot;&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:18pt; color:#ffffff; background-color:transparent;&quot;&gt;Once you think you have taken enough reading, move on to the next page.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
      </property>
     </widget>

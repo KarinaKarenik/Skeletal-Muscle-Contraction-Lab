@@ -19,7 +19,7 @@
      <rect>
       <x>10</x>
       <y>0</y>
-      <width>661</width>
+      <width>841</width>
       <height>74</height>
      </rect>
     </property>
@@ -202,7 +202,7 @@
        <x>0</x>
        <y>20</y>
        <width>501</width>
-       <height>201</height>
+       <height>231</height>
       </rect>
      </property>
      <property name="frameShape">
@@ -215,8 +215,7 @@ p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'.AppleSystemUIFont'; font-size:13pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p align=&quot;justify&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:120%;&quot;&gt;&lt;a name=&quot;docs-internal-guid-8d7cf781-7fff-d594-b555-75ac2388388d&quot;&gt;&lt;/a&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:14pt; color:#ffffff; background-color:transparent;&quot;&gt;Y&lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:14pt; color:#ffffff; background-color:transparent;&quot;&gt;ou can set the stimulation frequency to any value between 1 and 50 per second. When you press “Go” the computer will plot the result, as a graph of force against time. When you have finished making observations, go on to the next page. &lt;/span&gt;&lt;/p&gt;
 &lt;p align=&quot;justify&quot; style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:120%; font-family:'Times New Roman'; font-size:14pt; color:#ffffff;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p align=&quot;justify&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:120%;&quot;&gt;&lt;a name=&quot;docs-internal-guid-d8556572-7fff-1b62-74a5-9832aa40b249&quot;&gt;&lt;/a&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:14pt; color:#ffffff; background-color:transparent;&quot;&gt;B&lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:14pt; color:#ffffff; background-color:transparent;&quot;&gt;e careful how many times you do this experiment. The muscle will begin to deteriorate with prolonged use, as it is not receiving any blood supply.&lt;/span&gt;&lt;/p&gt;
-&lt;p align=&quot;justify&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'MS Shell Dlg 2'; font-size:14pt; color:#ffffff;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+&lt;p align=&quot;justify&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:120%;&quot;&gt;&lt;a name=&quot;docs-internal-guid-d8556572-7fff-1b62-74a5-9832aa40b249&quot;&gt;&lt;/a&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:14pt; color:#ffffff; background-color:transparent;&quot;&gt;B&lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:14pt; color:#ffffff; background-color:transparent;&quot;&gt;e careful how many times you do this experiment. The muscle will begin to deteriorate with prolonged use, as it is not receiving any blood supply.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
      </property>
     </widget>
    </widget>
@@ -224,7 +223,7 @@ p, li { white-space: pre-wrap; }
     <property name="geometry">
      <rect>
       <x>540</x>
-      <y>40</y>
+      <y>50</y>
       <width>381</width>
       <height>301</height>
      </rect>
@@ -325,7 +324,7 @@ color: rgb(255, 255, 255);</string>
      <rect>
       <x>40</x>
       <y>350</y>
-      <width>841</width>
+      <width>881</width>
       <height>361</height>
      </rect>
     </property>

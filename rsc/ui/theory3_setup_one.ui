@@ -38,7 +38,7 @@
       <x>20</x>
       <y>150</y>
       <width>641</width>
-      <height>161</height>
+      <height>191</height>
      </rect>
     </property>
     <property name="html">
@@ -49,7 +49,7 @@ p, li { white-space: pre-wrap; }
 &lt;p align=&quot;justify&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:120%;&quot;&gt;&lt;a name=&quot;docs-internal-guid-ab1ad924-7fff-78bd-bb0d-3278182117eb&quot;&gt;&lt;/a&gt;&lt;span style=&quot; font-family:'Calibri,sans-serif'; font-size:14pt; font-weight:600; color:#ff6400; background-color:transparent;&quot;&gt;1&lt;/span&gt;&lt;span style=&quot; font-family:'Calibri,sans-serif'; font-size:14pt; font-weight:600; color:#ff6400; background-color:transparent;&quot;&gt; -&lt;/span&gt;&lt;span style=&quot; font-family:'Calibri,sans-serif'; font-size:14pt; color:#ffffff; background-color:transparent;&quot;&gt; The frog sciatic nerve-gastrocnemius muscle preparation is mounted in the muscle bath;&lt;/span&gt;&lt;/p&gt;
 &lt;p align=&quot;justify&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:120%;&quot;&gt;&lt;span style=&quot; font-family:'Calibri,sans-serif'; font-size:14pt; font-weight:600; color:#ff6400; background-color:transparent;&quot;&gt;2 -&lt;/span&gt;&lt;span style=&quot; font-family:'Calibri,sans-serif'; font-size:14pt; color:#ffffff; background-color:transparent;&quot;&gt; The nerve is stimulated with electric impulses from the stimulator;&lt;/span&gt;&lt;/p&gt;
 &lt;p align=&quot;justify&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:120%;&quot;&gt;&lt;span style=&quot; font-family:'Calibri,sans-serif'; font-size:14pt; font-weight:600; color:#ff6400; background-color:transparent;&quot;&gt;3 -&lt;/span&gt;&lt;span style=&quot; font-family:'Calibri,sans-serif'; font-size:14pt; color:#ffffff; background-color:transparent;&quot;&gt; When the muscle contracts this is detected by the strain gauge;&lt;/span&gt;&lt;/p&gt;
-&lt;p align=&quot;justify&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:120%;&quot;&gt;&lt;span style=&quot; font-family:'Calibri,sans-serif'; font-size:14pt; font-weight:600; color:#ff6400; background-color:transparent;&quot;&gt;4 -&lt;/span&gt;&lt;span style=&quot; font-family:'Calibri,sans-serif'; font-size:14pt; color:#ffffff; background-color:transparent;&quot;&gt; The strain gauge sends an electric current to the interface, which converts it t o a digital signal, which appears on the computer screen;&lt;/span&gt;&lt;/p&gt;
+&lt;p align=&quot;justify&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:120%;&quot;&gt;&lt;span style=&quot; font-family:'Calibri,sans-serif'; font-size:14pt; font-weight:600; color:#ff6400; background-color:transparent;&quot;&gt;4 -&lt;/span&gt;&lt;span style=&quot; font-family:'Calibri,sans-serif'; font-size:14pt; color:#ffffff; background-color:transparent;&quot;&gt; The strain gauge sends an electric current to the interface, which converts it to a digital signal, which appears on the computer screen;&lt;/span&gt;&lt;/p&gt;
 &lt;p align=&quot;justify&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:120%;&quot;&gt;&lt;span style=&quot; font-family:'Calibri,sans-serif'; font-size:14pt; font-weight:600; color:#ff6400; background-color:transparent;&quot;&gt;5 -&lt;/span&gt;&lt;span style=&quot; font-family:'Calibri,sans-serif'; font-size:14pt; color:#ffffff; background-color:transparent;&quot;&gt; The computer records these signals for analysis later.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
     </property>
    </widget>
@@ -76,7 +76,7 @@ p, li { white-space: pre-wrap; }
     <property name="geometry">
      <rect>
       <x>90</x>
-      <y>330</y>
+      <y>360</y>
       <width>351</width>
       <height>331</height>
      </rect>
@@ -95,7 +95,7 @@ p, li { white-space: pre-wrap; }
     <property name="geometry">
      <rect>
       <x>540</x>
-      <y>330</y>
+      <y>360</y>
       <width>351</width>
       <height>331</height>
      </rect>

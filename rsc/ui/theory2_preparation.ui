@@ -18,7 +18,7 @@
     <property name="geometry">
      <rect>
       <x>10</x>
-      <y>150</y>
+      <y>120</y>
       <width>301</width>
       <height>41</height>
      </rect>
@@ -36,16 +36,16 @@
     <property name="geometry">
      <rect>
       <x>10</x>
-      <y>230</y>
-      <width>541</width>
-      <height>361</height>
+      <y>180</y>
+      <width>561</width>
+      <height>411</height>
      </rect>
     </property>
     <property name="html">
      <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'.AppleSystemUIFont'; font-size:13pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p align=&quot;justify&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:120%;&quot;&gt;&lt;a name=&quot;docs-internal-guid-ac192f06-7fff-96df-bd24-eb1532ae8bd0&quot;&gt;&lt;/a&gt;&lt;span style=&quot; font-family:'Calibri,sans-serif'; font-size:14pt; color:#ffffff; background-color:transparent;&quot;&gt;F&lt;/span&gt;&lt;span style=&quot; font-family:'Calibri,sans-serif'; font-size:14pt; color:#ffffff; background-color:transparent;&quot;&gt;rog tissues survive best if they are bathed in a solution (&lt;/span&gt;&lt;span style=&quot; font-family:'Calibri,sans-serif'; font-size:14pt; font-weight:600; color:#ffffff; background-color:transparent;&quot;&gt;Ringer Frog solution&lt;/span&gt;&lt;span style=&quot; font-family:'Calibri,sans-serif'; font-size:14pt; color:#ffffff; background-color:transparent;&quot;&gt;) with approximately the same salt composition as frog blood plasma. Experiments with frog tissue are carried out at room temperature as this type of frog lives at environmental temperatures of 5º-25ºC.&lt;/span&gt;&lt;/p&gt;
 &lt;p align=&quot;justify&quot; style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:120%; font-family:'Calibri,sans-serif'; font-size:14pt; color:#ffffff;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;p align=&quot;justify&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:120%;&quot;&gt;&lt;span style=&quot; font-family:'Calibri,sans-serif'; font-size:14pt; color:#ffffff; background-color:transparent;&quot;&gt;The preparation consists of the gastrocnemius muscle, which is the large muscle at the back of the lower leg, plus the sciatic nerve which controls it. The muscle has to be dissected with the nerve attached and care is needed to preserve the sciatic nerve roots, which are three on each side of the spinal cord.&lt;/span&gt;&lt;/p&gt;

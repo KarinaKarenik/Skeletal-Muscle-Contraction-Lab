@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>1280</width>
-    <height>691</height>
+    <height>687</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -195,7 +195,7 @@
      <rect>
       <x>10</x>
       <y>80</y>
-      <width>531</width>
+      <width>631</width>
       <height>171</height>
      </rect>
     </property>
@@ -212,7 +212,7 @@
       <rect>
        <x>10</x>
        <y>40</y>
-       <width>511</width>
+       <width>611</width>
        <height>121</height>
       </rect>
      </property>
@@ -334,11 +334,16 @@ p, li { white-space: pre-wrap; }
    <widget class="QLabel" name="labelDifference">
     <property name="geometry">
      <rect>
-      <x>500</x>
-      <y>250</y>
+      <x>560</x>
+      <y>260</y>
       <width>141</width>
       <height>31</height>
      </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>16</pointsize>
+     </font>
     </property>
     <property name="text">
      <string>TextLabel</string>

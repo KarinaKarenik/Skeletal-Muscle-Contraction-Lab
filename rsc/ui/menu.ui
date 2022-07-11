@@ -9,8 +9,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>800</width>
-    <height>600</height>
+    <width>834</width>
+    <height>642</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -22,7 +22,7 @@
      <rect>
       <x>20</x>
       <y>553</y>
-      <width>179</width>
+      <width>201</width>
       <height>26</height>
      </rect>
     </property>
@@ -45,8 +45,8 @@
     <property name="geometry">
      <rect>
       <x>20</x>
-      <y>399</y>
-      <width>179</width>
+      <y>419</y>
+      <width>201</width>
       <height>26</height>
      </rect>
     </property>
@@ -64,7 +64,7 @@
      <rect>
       <x>20</x>
       <y>585</y>
-      <width>179</width>
+      <width>201</width>
       <height>26</height>
      </rect>
     </property>
@@ -81,14 +81,14 @@
     <property name="geometry">
      <rect>
       <x>20</x>
-      <y>295</y>
-      <width>179</width>
+      <y>315</y>
+      <width>211</width>
       <height>23</height>
      </rect>
     </property>
     <property name="font">
      <font>
-      <pointsize>14</pointsize>
+      <pointsize>13</pointsize>
      </font>
     </property>
     <property name="text">
@@ -99,8 +99,8 @@
     <property name="geometry">
      <rect>
       <x>20</x>
-      <y>431</y>
-      <width>179</width>
+      <y>451</y>
+      <width>201</width>
       <height>26</height>
      </rect>
     </property>
@@ -117,26 +117,26 @@
     <property name="geometry">
      <rect>
       <x>20</x>
-      <y>183</y>
-      <width>179</width>
+      <y>203</y>
+      <width>211</width>
       <height>23</height>
      </rect>
     </property>
     <property name="font">
      <font>
-      <pointsize>14</pointsize>
+      <pointsize>13</pointsize>
      </font>
     </property>
     <property name="text">
-     <string>         THEORY &amp; SET-UP</string>
+     <string>        THEORY &amp; SET-UP</string>
     </property>
    </widget>
    <widget class="QPushButton" name="pushButtonExperiment2Menu">
     <property name="geometry">
      <rect>
       <x>20</x>
-      <y>367</y>
-      <width>179</width>
+      <y>387</y>
+      <width>201</width>
       <height>26</height>
      </rect>
     </property>
@@ -153,8 +153,8 @@
     <property name="geometry">
      <rect>
       <x>20</x>
-      <y>335</y>
-      <width>179</width>
+      <y>355</y>
+      <width>201</width>
       <height>26</height>
      </rect>
     </property>
@@ -171,8 +171,8 @@
     <property name="geometry">
      <rect>
       <x>20</x>
-      <y>220</y>
-      <width>179</width>
+      <y>240</y>
+      <width>201</width>
       <height>26</height>
      </rect>
     </property>
@@ -202,6 +202,31 @@
     </property>
     <property name="scaledContents">
      <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_2">
+    <property name="geometry">
+     <rect>
+      <x>40</x>
+      <y>100</y>
+      <width>181</width>
+      <height>81</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>12</pointsize>
+     </font>
+    </property>
+    <property name="autoFillBackground">
+     <bool>false</bool>
+    </property>
+    <property name="text">
+     <string>Choose a section from
+    the options below.</string>
+    </property>
+    <property name="scaledContents">
+     <bool>false</bool>
     </property>
    </widget>
   </widget>
