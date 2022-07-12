@@ -9,4 +9,7 @@ with open('./rsc/qss/Irrorater.qss', 'r') as f:
         app.setStyleSheet(styleSheet)
 
 DataWindows.widgets.show()
+DataWindows.widgets.showFullScreen()
 sys.exit(app.exec_())
+
+
