@@ -48,9 +48,9 @@ class DataWindows:
 
 
     widgets = QtWidgets.QStackedWidget()
-    widgets.showFullScreen()
-   # widgets.setFixedWidth(1000)
-  #  widgets.setFixedHeight(750)
+ #   widgets.showFullScreen()
+    widgets.setFixedWidth(1000)
+    widgets.setFixedHeight(750)
     
     
     for win in windows:
