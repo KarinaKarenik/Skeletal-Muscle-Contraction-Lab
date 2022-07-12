@@ -229,6 +229,24 @@
      <bool>false</bool>
     </property>
    </widget>
+   <widget class="QPushButton" name="pushButtonExit">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>680</y>
+      <width>201</width>
+      <height>26</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>11</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string>EXIT</string>
+    </property>
+   </widget>
   </widget>
  </widget>
  <resources/>
