@@ -1,6 +1,7 @@
 from PyQt5 import QtWidgets
 from PyQt5.uic import loadUi
 import windows
+from PyQt5.QtCore import QCoreApplication
 
 
 class About(QtWidgets.QDialog):
@@ -21,10 +22,14 @@ class Menu(QtWidgets.QMainWindow):
         self.pushButtonConclusion.clicked.connect(self.goToConclusion)   
         self.pushButtonAboutMenu.clicked.connect(self.showAbout)
         self.about = About(self)
+        self.pushButtonExit.clicked.connect(QCoreApplication.instance().quit)
+        
 
     def showAbout(self):
         self.about.setWindowTitle("About Skeletal Muscle Contraction.")
         self.about.exec()
+        
+
 
     def goToTheory(self):
         windows.DataWindows.widgets.setCurrentIndex(windows.DataWindows.widgets.currentIndex()+1)
