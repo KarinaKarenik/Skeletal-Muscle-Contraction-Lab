@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>1000</width>
-    <height>687</height>
+    <width>1280</width>
+    <height>800</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -38,7 +38,7 @@
      <rect>
       <x>20</x>
       <y>400</y>
-      <width>641</width>
+      <width>651</width>
       <height>271</height>
      </rect>
     </property>
@@ -77,8 +77,8 @@
       <rect>
        <x>20</x>
        <y>230</y>
-       <width>101</width>
-       <height>23</height>
+       <width>131</width>
+       <height>31</height>
       </rect>
      </property>
      <property name="text">
@@ -88,10 +88,10 @@
     <widget class="QPushButton" name="pushButtonShowExplanation">
      <property name="geometry">
       <rect>
-       <x>140</x>
+       <x>200</x>
        <y>230</y>
-       <width>181</width>
-       <height>23</height>
+       <width>241</width>
+       <height>31</height>
       </rect>
      </property>
      <property name="text">
@@ -110,7 +110,7 @@
      <property name="font">
       <font>
        <family>Times New Roman</family>
-       <pointsize>16</pointsize>
+       <pointsize>14</pointsize>
       </font>
      </property>
      <property name="text">
@@ -126,13 +126,13 @@
        <x>10</x>
        <y>150</y>
        <width>671</width>
-       <height>17</height>
+       <height>21</height>
       </rect>
      </property>
      <property name="font">
       <font>
        <family>Times New Roman</family>
-       <pointsize>16</pointsize>
+       <pointsize>14</pointsize>
       </font>
      </property>
      <property name="text">
@@ -154,7 +154,7 @@
      <property name="font">
       <font>
        <family>Times New Roman</family>
-       <pointsize>16</pointsize>
+       <pointsize>14</pointsize>
       </font>
      </property>
      <property name="text">
@@ -304,9 +304,9 @@
     <property name="geometry">
      <rect>
       <x>20</x>
-      <y>120</y>
-      <width>641</width>
-      <height>261</height>
+      <y>80</y>
+      <width>651</width>
+      <height>301</height>
      </rect>
     </property>
     <property name="font">
@@ -322,8 +322,8 @@
       <rect>
        <x>10</x>
        <y>40</y>
-       <width>621</width>
-       <height>201</height>
+       <width>631</width>
+       <height>241</height>
       </rect>
      </property>
      <property name="font">
@@ -331,6 +331,9 @@
        <family>Times New Roman</family>
        <pointsize>14</pointsize>
       </font>
+     </property>
+     <property name="frameShape">
+      <enum>QFrame::NoFrame</enum>
      </property>
      <property name="html">
       <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;

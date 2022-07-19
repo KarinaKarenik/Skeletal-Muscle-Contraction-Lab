@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>1006</width>
-    <height>687</height>
+    <width>1280</width>
+    <height>800</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -44,7 +44,7 @@
      <rect>
       <x>10</x>
       <y>0</y>
-      <width>661</width>
+      <width>831</width>
       <height>74</height>
      </rect>
     </property>
@@ -191,9 +191,9 @@
     <property name="geometry">
      <rect>
       <x>20</x>
-      <y>170</y>
+      <y>120</y>
       <width>971</width>
-      <height>501</height>
+      <height>551</height>
      </rect>
     </property>
     <property name="font">
@@ -267,9 +267,9 @@
      <property name="geometry">
       <rect>
        <x>20</x>
-       <y>290</y>
-       <width>769</width>
-       <height>18</height>
+       <y>320</y>
+       <width>931</width>
+       <height>31</height>
       </rect>
      </property>
      <property name="font">
@@ -289,7 +289,7 @@
        <x>10</x>
        <y>180</y>
        <width>941</width>
-       <height>81</height>
+       <height>111</height>
       </rect>
      </property>
      <property name="frameShape">
@@ -307,7 +307,7 @@ p, li { white-space: pre-wrap; }
      <property name="geometry">
       <rect>
        <x>30</x>
-       <y>366</y>
+       <y>410</y>
        <width>651</width>
        <height>21</height>
       </rect>
@@ -320,7 +320,7 @@ p, li { white-space: pre-wrap; }
      <property name="geometry">
       <rect>
        <x>30</x>
-       <y>397</y>
+       <y>450</y>
        <width>671</width>
        <height>20</height>
       </rect>
@@ -333,7 +333,7 @@ p, li { white-space: pre-wrap; }
      <property name="geometry">
       <rect>
        <x>30</x>
-       <y>330</y>
+       <y>370</y>
        <width>521</width>
        <height>21</height>
       </rect>
@@ -348,8 +348,8 @@ p, li { white-space: pre-wrap; }
      <rect>
       <x>50</x>
       <y>610</y>
-      <width>75</width>
-      <height>23</height>
+      <width>141</width>
+      <height>31</height>
      </rect>
     </property>
     <property name="text">

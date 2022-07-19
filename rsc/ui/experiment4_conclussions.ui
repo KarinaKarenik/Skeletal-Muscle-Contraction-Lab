@@ -63,7 +63,7 @@
      <rect>
       <x>10</x>
       <y>0</y>
-      <width>571</width>
+      <width>701</width>
       <height>74</height>
      </rect>
     </property>
@@ -80,9 +80,9 @@
     <property name="geometry">
      <rect>
       <x>20</x>
-      <y>160</y>
-      <width>661</width>
-      <height>401</height>
+      <y>120</y>
+      <width>781</width>
+      <height>441</height>
      </rect>
     </property>
     <property name="font">
@@ -98,8 +98,8 @@
       <rect>
        <x>10</x>
        <y>40</y>
-       <width>631</width>
-       <height>341</height>
+       <width>761</width>
+       <height>391</height>
       </rect>
      </property>
      <property name="font">

@@ -6,7 +6,7 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>1000</width>
+    <width>1280</width>
     <height>687</height>
    </rect>
   </property>
@@ -21,7 +21,7 @@
     <property name="geometry">
      <rect>
       <x>20</x>
-      <y>380</y>
+      <y>390</y>
       <width>271</width>
       <height>321</height>
      </rect>
@@ -103,7 +103,7 @@ color: rgb(255, 255, 255);</string>
     <property name="geometry">
      <rect>
       <x>330</x>
-      <y>350</y>
+      <y>360</y>
       <width>371</width>
       <height>351</height>
      </rect>
@@ -300,7 +300,7 @@ color: rgb(255, 255, 255);</string>
      <rect>
       <x>10</x>
       <y>0</y>
-      <width>571</width>
+      <width>751</width>
       <height>74</height>
      </rect>
     </property>
@@ -318,8 +318,8 @@ color: rgb(255, 255, 255);</string>
      <rect>
       <x>10</x>
       <y>80</y>
-      <width>691</width>
-      <height>261</height>
+      <width>761</width>
+      <height>271</height>
      </rect>
     </property>
     <property name="font">
@@ -335,8 +335,8 @@ color: rgb(255, 255, 255);</string>
       <rect>
        <x>10</x>
        <y>30</y>
-       <width>671</width>
-       <height>221</height>
+       <width>741</width>
+       <height>231</height>
       </rect>
      </property>
      <property name="font">
@@ -358,7 +358,7 @@ p, li { white-space: pre-wrap; }
    <widget class="QLabel" name="labelImage">
     <property name="geometry">
      <rect>
-      <x>760</x>
+      <x>780</x>
       <y>180</y>
       <width>181</width>
       <height>341</height>

@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>705</width>
-    <height>365</height>
+    <width>781</width>
+    <height>456</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -18,8 +18,8 @@
     <rect>
      <x>20</x>
      <y>30</y>
-     <width>661</width>
-     <height>311</height>
+     <width>741</width>
+     <height>411</height>
     </rect>
    </property>
    <property name="font">
@@ -34,9 +34,9 @@
     <property name="geometry">
      <rect>
       <x>10</x>
-      <y>30</y>
-      <width>391</width>
-      <height>271</height>
+      <y>40</y>
+      <width>421</width>
+      <height>361</height>
      </rect>
     </property>
     <property name="font">
@@ -64,8 +64,8 @@ p, li { white-space: pre-wrap; }
    <widget class="QLabel" name="labelImage">
     <property name="geometry">
      <rect>
-      <x>450</x>
-      <y>30</y>
+      <x>490</x>
+      <y>60</y>
       <width>161</width>
       <height>71</height>
      </rect>
@@ -83,8 +83,8 @@ p, li { white-space: pre-wrap; }
    <widget class="QLabel" name="labelImage_2">
     <property name="geometry">
      <rect>
-      <x>410</x>
-      <y>110</y>
+      <x>450</x>
+      <y>160</y>
       <width>241</width>
       <height>31</height>
      </rect>
@@ -102,8 +102,8 @@ p, li { white-space: pre-wrap; }
    <widget class="QLabel" name="labelImage_3">
     <property name="geometry">
      <rect>
-      <x>470</x>
-      <y>150</y>
+      <x>510</x>
+      <y>220</y>
       <width>141</width>
       <height>41</height>
      </rect>
@@ -121,8 +121,8 @@ p, li { white-space: pre-wrap; }
    <widget class="QLabel" name="labelImage_4">
     <property name="geometry">
      <rect>
-      <x>470</x>
-      <y>210</y>
+      <x>510</x>
+      <y>290</y>
       <width>141</width>
       <height>41</height>
      </rect>

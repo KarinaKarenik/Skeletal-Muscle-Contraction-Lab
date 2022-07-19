@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>1000</width>
-    <height>687</height>
+    <width>1280</width>
+    <height>800</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -80,9 +80,9 @@ color: rgb(255, 255, 255);</string>
     <widget class="QPushButton" name="pushButtonApplyVoltage">
      <property name="geometry">
       <rect>
-       <x>300</x>
+       <x>290</x>
        <y>230</y>
-       <width>111</width>
+       <width>121</width>
        <height>31</height>
       </rect>
      </property>
@@ -98,9 +98,9 @@ color: rgb(255, 255, 255);</string>
     <widget class="QPushButton" name="pushButtonHelp">
      <property name="geometry">
       <rect>
-       <x>300</x>
+       <x>290</x>
        <y>270</y>
-       <width>111</width>
+       <width>121</width>
        <height>31</height>
       </rect>
      </property>
@@ -118,9 +118,9 @@ color: rgb(255, 255, 255);</string>
     <property name="geometry">
      <rect>
       <x>730</x>
-      <y>260</y>
+      <y>210</y>
       <width>251</width>
-      <height>431</height>
+      <height>481</height>
      </rect>
     </property>
     <property name="title">
@@ -132,7 +132,7 @@ color: rgb(255, 255, 255);</string>
        <x>10</x>
        <y>30</y>
        <width>231</width>
-       <height>391</height>
+       <height>441</height>
       </rect>
      </property>
      <column>
@@ -312,6 +312,9 @@ color: rgb(255, 255, 255);</string>
       <font>
        <pointsize>21</pointsize>
       </font>
+     </property>
+     <property name="frameShape">
+      <enum>QFrame::NoFrame</enum>
      </property>
      <property name="html">
       <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
