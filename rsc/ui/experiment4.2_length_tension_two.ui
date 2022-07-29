@@ -73,6 +73,9 @@
       <property name="text">
        <string>Length   </string>
       </property>
+      <property name="textAlignment">
+       <set>AlignLeading|AlignVCenter</set>
+      </property>
      </column>
      <column>
       <property name="text">
@@ -87,6 +90,9 @@
      <column>
       <property name="text">
        <string>Difference            </string>
+      </property>
+      <property name="textAlignment">
+       <set>AlignCenter</set>
       </property>
      </column>
     </widget>
