@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>1280</width>
-    <height>687</height>
+    <height>674</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -92,7 +92,7 @@
        <string>Difference            </string>
       </property>
       <property name="textAlignment">
-       <set>AlignCenter</set>
+       <set>AlignJustify|AlignVCenter</set>
       </property>
      </column>
     </widget>

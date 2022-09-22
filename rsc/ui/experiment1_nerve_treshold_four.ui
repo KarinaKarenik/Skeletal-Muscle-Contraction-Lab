@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>1280</width>
-    <height>687</height>
+    <height>674</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -45,7 +45,7 @@
      </property>
      <property name="font">
       <font>
-       <pointsize>14</pointsize>
+       <pointsize>12</pointsize>
        <weight>75</weight>
        <bold>true</bold>
       </font>
@@ -109,7 +109,7 @@
      </property>
      <property name="font">
       <font>
-       <pointsize>14</pointsize>
+       <pointsize>12</pointsize>
        <weight>75</weight>
        <bold>true</bold>
       </font>
@@ -129,7 +129,7 @@
      </property>
      <property name="font">
       <font>
-       <pointsize>14</pointsize>
+       <pointsize>12</pointsize>
        <weight>75</weight>
        <bold>true</bold>
       </font>
@@ -146,6 +146,11 @@
        <width>831</width>
        <height>21</height>
       </rect>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>14</pointsize>
+      </font>
      </property>
      <property name="text">
       <string>This is the minimum voltage required to stimulate</string>
@@ -174,11 +179,16 @@
     <widget class="QLabel" name="label_7">
      <property name="geometry">
       <rect>
-       <x>470</x>
+       <x>460</x>
        <y>190</y>
        <width>128</width>
        <height>21</height>
       </rect>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>12</pointsize>
+      </font>
      </property>
      <property name="text">
       <string>of the</string>
@@ -187,7 +197,7 @@
     <widget class="QComboBox" name="comboBox_2">
      <property name="geometry">
       <rect>
-       <x>540</x>
+       <x>520</x>
        <y>190</y>
        <width>111</width>
        <height>21</height>
@@ -207,11 +217,16 @@
     <widget class="QLabel" name="label_8">
      <property name="geometry">
       <rect>
-       <x>660</x>
+       <x>650</x>
        <y>190</y>
        <width>128</width>
        <height>21</height>
       </rect>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>12</pointsize>
+      </font>
      </property>
      <property name="text">
       <string>fibres.</string>
@@ -239,9 +254,9 @@
      <property name="geometry">
       <rect>
        <x>130</x>
-       <y>290</y>
+       <y>280</y>
        <width>91</width>
-       <height>23</height>
+       <height>31</height>
       </rect>
      </property>
      <property name="font">
@@ -257,9 +272,9 @@
      <property name="geometry">
       <rect>
        <x>19</x>
-       <y>290</y>
+       <y>282</y>
        <width>91</width>
-       <height>23</height>
+       <height>31</height>
       </rect>
      </property>
      <property name="font">
@@ -282,7 +297,7 @@
      </property>
      <property name="font">
       <font>
-       <pointsize>14</pointsize>
+       <pointsize>12</pointsize>
        <weight>75</weight>
        <bold>true</bold>
       </font>
@@ -302,6 +317,7 @@
      </property>
      <property name="font">
       <font>
+       <pointsize>13</pointsize>
        <weight>75</weight>
        <bold>true</bold>
       </font>
@@ -313,7 +329,7 @@
       <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'.AppleSystemUIFont'; font-size:15pt; font-weight:600; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'.AppleSystemUIFont'; font-size:13pt; font-weight:600; font-style:normal;&quot;&gt;
 &lt;p align=&quot;justify&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;a name=&quot;docs-internal-guid-ef9e035d-7fff-fabd-0221-4a02975c50b8&quot;&gt;&lt;/a&gt;&lt;span style=&quot; font-family:'AppleSystemUIFont'; font-size:18pt; color:#ffffff; background-color:transparent;&quot;&gt;Q&lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:18pt; color:#ffffff; background-color:transparent;&quot;&gt;4 &lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:14pt; color:#ffffff; background-color:transparent;&quot;&gt;- Stimulation of the sciatic nerve with larger and larger voltages above threshold results in larger and larger contractions. This process is called &lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:14pt; color:#ff6400; background-color:transparent;&quot;&gt;recruitment&lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:14pt; color:#ffffff; background-color:transparent;&quot;&gt;. Each individual motor nerve fiber has a different threshold, because some are further away from the stimulating electrode than others. As the voltage is increased, more motor nerve fibers are stimulated, until eventually they are &lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:14pt; color:#ff6400; background-color:transparent;&quot;&gt;all&lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:14pt; color:#ffffff; background-color:transparent;&quot;&gt; stimulated. When this occurs, all the muscle fibers contract simultaneously, resulting in &lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:14pt; font-weight:400; color:#ff6400; background-color:transparent;&quot;&gt;m&lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:14pt; color:#ff6400; background-color:transparent;&quot;&gt;aximal response&lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:14pt; font-weight:400; color:#ff6400; background-color:transparent;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
      </property>
     </widget>
@@ -328,7 +344,7 @@ p, li { white-space: pre-wrap; }
      </property>
      <property name="font">
       <font>
-       <pointsize>14</pointsize>
+       <pointsize>12</pointsize>
        <weight>50</weight>
        <bold>false</bold>
       </font>
@@ -392,7 +408,7 @@ p, li { white-space: pre-wrap; }
      </property>
      <property name="font">
       <font>
-       <pointsize>14</pointsize>
+       <pointsize>12</pointsize>
        <weight>75</weight>
        <bold>true</bold>
       </font>
@@ -405,9 +421,9 @@ p, li { white-space: pre-wrap; }
      <property name="geometry">
       <rect>
        <x>19</x>
-       <y>600</y>
+       <y>592</y>
        <width>91</width>
-       <height>23</height>
+       <height>31</height>
       </rect>
      </property>
      <property name="font">
@@ -423,9 +439,9 @@ p, li { white-space: pre-wrap; }
      <property name="geometry">
       <rect>
        <x>130</x>
-       <y>600</y>
+       <y>592</y>
        <width>91</width>
-       <height>23</height>
+       <height>31</height>
       </rect>
      </property>
      <property name="font">
